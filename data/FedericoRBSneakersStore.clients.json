@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6616e5c55f0462ec8d1376d5"
+  },
+  "name": "Juan",
+  "lastname": "Perez",
+  "country": "Mexico",
+  "email": "juan@example.com",
+  "phone": "1234567890",
+  "password": "secreto123",
+  "createdAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616e5cd5f0462ec8d1376d6"
+  },
+  "name": "Maria",
+  "lastname": "Gomez",
+  "country": "Spain",
+  "email": "maria@example.com",
+  "phone": "9876543210",
+  "createdAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616e5da5f0462ec8d1376d7"
+  },
+  "name": "John",
+  "lastname": "Smith",
+  "email": "john@example.com",
+  "password": "password123",
+  "createdAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  }
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6616e31b5f0462ec8d1376af"
+  },
+  "idBrand": {
+    "$oid": "6616e5215f0462ec8d1376cf"
+  },
+  "discount": 0.5,
+  "createdAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "idClient": {
+    "$oid": "6616e5cd5f0462ec8d1376d6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616e3805f0462ec8d1376bb"
+  },
+  "idBrand": {
+    "$oid": "6616e0155f0462ec8d13769b"
+  },
+  "discount": 0.5,
+  "createdAt": {
+    "$date": "2024-04-10T02:04:52.018Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:04:52.018Z"
+  },
+  "idClient": {
+    "$oid": "6616e5c55f0462ec8d1376d5"
+  }
+}]

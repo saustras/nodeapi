@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6616e6195f0462ec8d1376db"
+  },
+  "name": "Zapato casual negro",
+  "brand": {
+    "$oid": "6616e0155f0462ec8d13769b"
+  },
+  "stock": 100,
+  "createdAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "6616e6215f0462ec8d1376dc"
+  },
+  "name": "Zapato deportivo blanco",
+  "brand": {
+    "$oid": "6616e5215f0462ec8d1376cf"
+  },
+  "stock": 0,
+  "createdAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T02:03:21.100Z"
+  },
+  "price": 70
+},
+  {
+    "_id": {
+      "$oid": "6616e6295f0462ec8d1376dd"
+    },
+    "name": "Zapato formal marrón",
+    "brand": {
+      "$oid": "6616e0155f0462ec8d13769b"
+    },
+    "stock": 30,
+    "createdAt": {
+      "$date": "2024-04-10T02:03:21.100Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T02:03:21.100Z"
+    },
+    "price": 90
+  },
+  {
+    "_id": {
+      "$oid": "6616e6315f0462ec8d1376de"
+    },
+    "name": "Zapato informal gris",
+    "brand": {
+      "$oid": "6616e5215f0462ec8d1376cf"
+    },
+    "stock": 10,
+    "createdAt": {
+      "$date": "2024-04-10T02:03:21.100Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T02:03:21.100Z"
+    },
+    "price": 65
+  }
+]
